@@ -1,0 +1,13 @@
+{
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    },
+
+    "require":{
+        "endroid/qrcode":"1.9.1",
+        "gregwar/captcha":"v1.1.1"
+    }
+}

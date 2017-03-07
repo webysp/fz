@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d22741f6-8a7a-421d-b657-d0ecd3515f4c" name="fz" url="http://www.fz.cn">
+        <fileTransfer port="0" mountedRoot="D:\fz" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
